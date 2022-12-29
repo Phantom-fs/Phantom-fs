@@ -37,7 +37,7 @@
 
 
 ## Github Stats  
-<p><img align="left" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-fs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phantom-fs" /></p>
+<p><img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-fs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phantom-fs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phantom-fs&show_icons=true&locale=en&hide=prs,issues&theme=tokyonight" alt="phantom-fs" /></p>
 
@@ -49,7 +49,7 @@
 
 ----
 
-&#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+&#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; &#8205; ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <p align="center">
