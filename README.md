@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/Banner%20FS.gif">
+[![MasterHead](https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/Banner%20FS.gif)](https://rishavchanda.io)
   
 
 ### <div align="center">I'm Farhan Sheth, a Java developer 👨‍💻 </div>  
