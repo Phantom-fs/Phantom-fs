@@ -3,7 +3,7 @@
   </p>
   
 
-### <div align="center">I'm Farhan Sheth, a Java developer 👨‍💻 </div>  
+### <div align="center">I'm Farhan Sheth, a Software Engineer 👨‍💻 </div>  
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/mobile-app-development.gif">
   
