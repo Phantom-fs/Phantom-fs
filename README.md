@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/Banner%20FS.gif)](https://rishavchanda.io)
+<img align="center" alt="Coding" src="https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/Banner%20FS.gif">
   
 
 ### <div align="center">I'm Farhan Sheth, a Java developer 👨‍💻 </div>  
@@ -37,7 +37,7 @@
 
 
 ## Github Stats  
-<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-fs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phantom-fs" /></p>
+<p><img align="left" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-fs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phantom-fs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phantom-fs&show_icons=true&locale=en&hide=prs,issues&theme=tokyonight" alt="phantom-fs" /></p>
 
