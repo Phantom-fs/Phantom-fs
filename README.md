@@ -52,12 +52,7 @@
 
 <br/>  
 
-## Github Stats  
-<p><img align="left" width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-fs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phantom-fs" /></p>
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=phantom-fs&show_icons=true&locale=en&hide=prs,issues&theme=tokyonight" alt="phantom-fs" /></p>
-
-<br/>
 
 ## WakaTime Stats
 [![Farhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PhantomFS&layout=compact)](https://wakatime.com/@PhantomFS)
