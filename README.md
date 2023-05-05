@@ -60,7 +60,7 @@
 <br/>
 
 ## WakaTime Stats
-[![Farhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PhantomFS&layout=compact)](https://wakatime.com/@PhantomFS)
+[![Farhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PhantomFS&layout=compact&range=all_time)](https://wakatime.com/@PhantomFS)
 
 
 ----
