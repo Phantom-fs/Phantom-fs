@@ -3,7 +3,7 @@
   </p>
   
 
-### <div align="center">Heyo, I'm Farhan Sheth, a Software Engineer 👨‍💻 </div>  
+### <div align="center">Heyo, I'm Farhan Sheth, a ML Engineer 👨‍💻 </div>  
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/mobile-app-development.gif">
   
@@ -14,10 +14,10 @@
 - 👯 I’m looking to collaborate on Android Development  
   
 
-- 🌱 I’m currently learning Flutter Framework  
+- 🌱 I’m currently learning Machine Learning & Flutter Framework  
   
 
-- 💬 Ask me about Java, C, Dart  
+- 💬 Ask me about Python, Java, C, Dart  
   
 
 - 📃 Goals: Contribute to Open Source Projects   
