@@ -26,7 +26,7 @@
 - 🔗 [Bio Link](https://farhansheth.taplink.ws)  
   
 
-- 🧑🏻‍💻 Visit my [Portfolio Website](https://phantom-fs.github.io/)  
+- 🧑🏻‍💻 Visit my Website: [farhansheth.com](https://farhansheth.com/)  
   
 
 <br/>  
